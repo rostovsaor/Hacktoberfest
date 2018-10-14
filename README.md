@@ -8,8 +8,6 @@ Para participar no nosso evento de 2018, confirma a tua presença no nosso [meet
 
 ## Participantes
 - [Rosário Pereira Fernandes](https://github.com/rosariopfernandes)
-<<<<<<< HEAD
-=======
 - [Carlos Alberto Massavanhane Jr](https://github.com/cmassavanhanejr)
 - [Gentil Antonio Macicame](https://github.com/GentilMacicame)
 - [Berta Devesse](https://github.com/bethDev)
@@ -18,7 +16,7 @@ Para participar no nosso evento de 2018, confirma a tua presença no nosso [meet
 - [Idelson Mindo](https://github.com/idelson)
 - [Muhamad Yuraz Ismail](https://github.com/muhamadyuraz07)
 - [Emmerson Figueiro](https://github.com/emmerson15)
->>>>>>> a0cca16d88881d0fdd7e3fe2e0d89e6a0c646466
+>>>>>>> a0
 - [Salvador Anselmo de Oliveira Rombe](https://github.com/rostovsaor)
 - [Gildo Jalane](https://github.com/GJalane)
 - [Domingos Cesar](https://github.com/Domingos058)
