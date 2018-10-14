@@ -16,7 +16,6 @@ Para participar no nosso evento de 2018, confirma a tua presença no nosso [meet
 - [Idelson Mindo](https://github.com/idelson)
 - [Muhamad Yuraz Ismail](https://github.com/muhamadyuraz07)
 - [Emmerson Figueiro](https://github.com/emmerson15)
->>>>>>> a0
 - [Salvador Anselmo de Oliveira Rombe](https://github.com/rostovsaor)
 - [Gildo Jalane](https://github.com/GJalane)
 - [Domingos Cesar](https://github.com/Domingos058)
